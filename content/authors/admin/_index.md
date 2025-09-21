@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jiawei Lyu
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jiawei
+last_name: Lyu
 
 # Pronouns (optional)
 pronouns: he/him
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: "mailto:alex.johnson@meta.com"
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
@@ -61,8 +61,8 @@ education:
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      text: "Read Thesis"
+      url: "https://example.com/thesis.pdf"
   - area: MS Computer Science
     institution: Carnegie Mellon University
     date_start: 2013-09-01
@@ -83,16 +83,16 @@ education:
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
+    company_url: "https://ai.meta.com/"
+    company_logo: ""
     date_start: 2020-01-01
-    date_end: ''
+    date_end: ""
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
     company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
+    company_url: "https://openai.com/"
+    company_logo: ""
     date_start: 2019-06-01
     date_end: 2019-12-31
     summary: |
@@ -104,31 +104,31 @@ skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
+        description: ""
         percent: 95
         icon: code-bracket
       - name: Machine Learning
-        description: ''
+        description: ""
         percent: 100
         icon: chart-bar
       - name: Cloud Computing (AWS/GCP)
-        description: ''
+        description: ""
         percent: 85
         icon: cloud
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking in the Rockies
-        description: ''
+        description: ""
         percent: 80
         icon: person-simple-walk
       - name: Building Custom PCs
-        description: ''
+        description: ""
         percent: 90
         icon: cpu-chip
       - name: Sci-Fi Reading
-        description: ''
+        description: ""
         percent: 70
         icon: book-open
 
@@ -145,21 +145,21 @@ languages:
 awards:
   - title: Best Paper Award
     url: https://neurips.cc/
-    date: '2022-12-01'
+    date: "2022-12-01"
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
-    date: '2021-06-15'
+    date: "2021-06-15"
     awarder: National Science Foundation
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
   - title: Outstanding PhD Thesis
     url: https://www.stanford.edu/
-    date: '2019-06-30'
+    date: "2019-06-30"
     awarder: Stanford University
     icon: hero/academic-cap
     summary: |
