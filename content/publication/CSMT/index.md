@@ -35,7 +35,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: "http://www.jns.fudan.edu.cn/oa/DArticle.aspx?type=view&id=20210314"
+    url: journal.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: slides
