@@ -29,7 +29,7 @@ publication_types: ["paper-conference"]
 publication: In *Proceedings of the ACM on Web Conference 2025*
 publication_short: In *WWW 2025 Proceedings of the ACM on Web Conference 2025*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Websites commonly display cookie banners to inform users about the use and purposes of cookies. However, they may still, whether intentionally or unintentionally (e.g., due to third-party libraries imported), mis-declare cookies that may be abused for tracking. In this work, we introduce COOVER (<u>coo</u>kie <u>v</u>alue examin<u>er</u>) to assess the non-compliance between the website-declared purpose and the semantic-intended purpose of cookies (denoted as potential cookie purpose violation ). We advocate that the value of the cookie is a more reliable indicator of its semantic-intended purpose compared to other features such as expiration time. COOVER decomposes the cookie value into primitive segments representing minimal semantic units, and fine-tunes a GPT-3.5 model to automatically interpret their value-inferred semantics. Based on the interpretation, it classifies cookies into four GDPR-defined purposes. COOVER achieves an F1 score of 95%, significantly outperforming other methods. We employ COOVER to analyze Alexa Top 1k websites to understand the status quo of potential cookie purpose violation on the web. Remarkably, out of 15,339 cookies across these websites, only 3.1% quality as truly necessary cookies, while 44.1% of websites suffer from issues of potential purpose violation.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,9 +41,9 @@ publication_short: In *WWW 2025 Proceedings of the ACM on Web Conference 2025*
 featured: false
 
 # Standard identifiers for auto-linking
-# hugoblox:
-#   ids:
-#     doi: 10.5555/123456
+hugoblox:
+  ids:
+    doi: 10.1145/3696410.3714746
 
 # Custom links
 links:
