@@ -169,4 +169,4 @@ work:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Jiawei Lyu is an IT Analyst Applications at Caterpillar Inc., where he develops automated solutions for procurement processes. He holds a Master of Computer Science from The University of Queensland and undergraduate degrees from Queensland University of Technology and Jinling Institute of Technology. In his past work and studies, his primary research interests have included cybersecurity and privacy, machine learning, data mining, and related fields. He also has extensive experience in full-stack web development and artificial intelligence.
