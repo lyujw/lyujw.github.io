@@ -57,10 +57,14 @@ education:
     date_start: 2023-02-20
     date_end: 2024-07-10
     summary: |
-      GPA: 6.75/7.0. |
-      International Onshore Merit Scholarship. |
-      Dean’s Commendation for Academic Excellence (Twice). |
+      GPA: 6.75/7.0.
+
+      International Onshore Merit Scholarship. 
+
+      Dean’s Commendation for Academic Excellence (Twice). 
+
       Published 1 paper in WWW 2025 (The Web Conference) supervised by Associate Prof. Guangdong Bai. |
+
   - area: Bachelor of Information Technology (Information Systems)
     institution: Queensland University of Technology
     date_start: 2021-11-22
