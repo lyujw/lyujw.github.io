@@ -58,28 +58,27 @@ education:
     date_end: 2024-07-10
     summary: |
       GPA: 6.75/7.0.  
-      International Onshore Merit Scholarship. 
-      Dean’s Commendation for Academic Excellence (Twice). 
-
+      International Onshore Merit Scholarship.  
+      Dean’s Commendation for Academic Excellence (two-time recipient).  
       Published 1 paper in WWW 2025 (The Web Conference) supervised by Associate Prof. Guangdong Bai.
-
   - area: Bachelor of Information Technology (Information Systems)
     institution: Queensland University of Technology
     date_start: 2021-11-22
     date_end: 2022-12-19
     summary: |
-      GPA: 6.5/7.0.
-      QUT International Merit Scholarship - Science.
+      GPA: 6.5/7.0.  
+      QUT International Merit Scholarship - Science.  
       Dean’s List for Excellent Academic Performance.
   - area: Bachelor of Engineering (Software Engineering)
     institution: Jinling Institute of Technology
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
-      GPA: 88/100.
-      First Class Award Scholarship.
-      2020 RoboCup China Open (Social Standard Platform) - Second Place.
-      2020 RoboCup@Home Education Finals Standard Platform(1/10) - People’s Choice Award.
+      GPA: 88/100.  
+      First Class Award Scholarship.  
+      JIT Merit Student (two-time recipient).  
+      2020 RoboCup China Open (Social Standard Platform) - Second Place.  
+      2020 RoboCup@Home Education Finals Standard Platform(1/10) - People’s Choice Award.  
       Published 2 papers supervised by Prof. Wenming Gui.
 
 work:
